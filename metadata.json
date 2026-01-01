@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Drive Analyzer",
+  "description": "Intelligent file analysis tool that transcribes, summarizes, and tags content from Audio, Video, and Documents using Gemini 1.5 Pro and Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
